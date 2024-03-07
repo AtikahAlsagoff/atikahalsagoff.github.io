@@ -6,6 +6,6 @@ I have a passion for engineering, coding and application developments. Through t
 
 Feel free to explore and get in touch if you'd like to collaborate or have any inquiries.
 
-You can reach me at [![Email Badge](https://img.shields.io/badge/-atikah.alsagoff@gmail.com-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah.alsagoff@gmail.com) or connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Atikah Alsagoff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahalsagoff/).
+You can reach me at [![Email Badge](https://img.shields.io/badge/-atikah.alsagoff@gmail.com-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah.alsagoff@gmail.com) or connect with me on [![Linkedin Badge](https://img.shields.io/badge/-AtikahAlsagoff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahalsagoff/).
 
 Happy browsing!
